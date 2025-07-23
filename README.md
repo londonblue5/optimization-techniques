@@ -4,4 +4,4 @@ First project: find minimum of a single variable function, using bisector, bisec
 
 Second project: Steepest descent, newton and levenberg-marquardt methods for multi variable function minimization
 
-Third project: Steepest Descent method with projection (minimization with constraints)
+Third project: Steepest Descent method with projection (minimization under constraints)
